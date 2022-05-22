@@ -1,1 +1,1038 @@
-{"current":{"enable_wide_layout":true,"color_topbar_bg":"#ffffff","color_body_bg":"#ffffff","color_footer_bg":"#eeeeee","color_borders":"#ffffff","color_primary":"#f8aeac","color_button_primary_text":"#ffffff","color_topbar_text":"#000000","color_header_text":"#000000","color_body_text":"#000000","color_footer_text":"#000000","color_footer_social_link":"#000000","type_base_family":"assistant_n4","type_base_size":"13px","type_header_family":"assistant_n4","type_header_size":"26px","type_accent_family":"antique_olive_n4","type_accent_size":"12px","type_accent_transform":true,"type_accent_spacing":true,"favicon":"shopify:\/\/shop_images\/corazon-negro-1.jpg","social_facebook_link":"https:\/\/www.facebook.com\/imperiosa.pe","social_pinterest_link":"https:\/\/www.pinterest.com\/imperiosape","social_instagram_link":"https:\/\/www.instagram.com\/imperiosa.pe","share_facebook":true,"share_twitter":false,"share_pinterest":true,"social_sharing_style":"normal","checkout_logo_image":"shopify:\/\/shop_images\/logo-imperiosa-nuevo_a004a6de-9de5-47e1-84d7-c0f1357c6c5b.png","checkout_logo_position":"left","checkout_logo_size":"small","checkout_body_background_image":"","checkout_body_background_color":"#feeeee","checkout_input_background_color_mode":"white","checkout_sidebar_background_color":"#ffffff","checkout_heading_font":"Helvetica Neue","checkout_body_font":"Helvetica Neue","checkout_accent_color":"#000000","checkout_button_color":"#f8aeac","checkout_error_color":"#000000","favicon_enable":false,"mlvedaACS_roundDecimal":false,"mlvedaACS_autoSwitch":false,"collections_center_grid_link":false,"mlvedaACS_messageContent":"<<shop.name>> process all orders in <<shop.currency>>. While the content of your cart is currently displayed in <<shop.selected_currency>>, you will checkout using <<shop.currency>> at the most current exchange rate.","mlvedaACS_os2":false,"mlvedaACS_positionTop":"10px","mlvedaACS_isCustomized":true,"mlvedaACS_positionRight":"10px","mlvedaACS_borderLook":false,"mlvedaACS_positionLeft":"10px","mlvedaACS_defaultCurrency":"PEN","mlvedaACS_textColor":"inherit","mlvedaACS_flagStyle":"circle","mlvedaACS_isMessageDisplay":true,"mlvedaACS_positionBottom":"10px","mlvedaACS_messageBackgroundColor":"inherit","mlvedaACS_roundDecimalValue":1,"mlvedaACS_backgroundColor":"inherit","mlvedaACS_position":"inline","mlvedaACS_messageColor":"inherit","mlvedaACS_textHoverColor":"inherit","mlvedaACS_enable":false,"mlvedaACS_supportedCurrencies":"PEN USD CLP COP PAB ARS BOB MXN VEF PYG UYU CRC CAD","mlvedaACS_hideDecimal":false,"mlvedaACS_hoverBackgroundColor":"inherit","mlvedaACS_currencyFormat":"money_with_currency_format","mlvedaACS_borderLineColor":"inherit","mlvedaACS_displayFlag":false,"sections":{"slider":{"type":"slider","blocks":{"c6687566-a6c0-476e-90ba-e55ec23c6ad1":{"type":"image","disabled":true,"settings":{"alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"left","slide_heading":"*","button_label":"VESTIDOS AQUÍ","button_link":"shopify:\/\/collections\/vestidos"}},"slider-1":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/2x1-polos.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"left","slide_heading":"","button_label":"","button_link":""}},"ea20891c-a10a-41f7-a739-848116cd5434":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/portada_03_0b84af56-789f-40b0-8c0f-1050191b272b.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/lenceria"}},"slider-0":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/portada_01.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"SHOP NOW","button_link":"shopify:\/\/collections\/ropa-moda"}},"9a04dd34-efd8-4e61-9b56-6b1a74e059e3":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/vestidos-vrios-1.jpg","alignment":"left center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}}},"block_order":["c6687566-a6c0-476e-90ba-e55ec23c6ad1","slider-1","ea20891c-a10a-41f7-a739-848116cd5434","slider-0","9a04dd34-efd8-4e61-9b56-6b1a74e059e3"],"settings":{"slider_height":"adapt","slider_autorotate":false,"slider_autorotate_rate":5,"slider_home_transition":"fade","text_size":"large"}},"1636580413e40e11c6":{"type":"rich-text","settings":{"section_title":"Nuestros favoritos ♥","text":"","text_size":"medium"}},"list-collections-template":{"type":"list-collections-template","settings":{"display_type":"all","sort":"alphabetical","grid":"3"}},"footer":{"type":"footer","blocks":{"0a74bf42-1630-4591-a280-2acb1763fef1":{"type":"text","settings":{"title":"Contáctanos","richtext":"<p><strong>📱 <\/strong><a href=\"https:\/\/wa.me\/51988960376\" target=\"_blank\" title=\"https:\/\/wa.me\/51988960376\">972 185 669<\/a><\/p><p>✉ info@imperiosa.pe<\/p>"}},"footer-0":{"type":"menu","settings":{"menu_title":"Información","menu":"informacion"}},"footer-2":{"type":"social","settings":{}},"footer-3":{"type":"newsletter","settings":{"subtext":""}}},"block_order":["0a74bf42-1630-4591-a280-2acb1763fef1","footer-0","footer-2","footer-3"],"settings":{"show_methods_of_payment":true}},"16363036092878ac11":{"type":"featured-collection","settings":{"title":"","featured_collection":"vestidos","num_per_row":5,"num_rows":1,"vendor_enable":false,"show_sale_circle":true,"show_sold_out_circle":true,"center_grid_link":true}},"featured-collection":{"type":"featured-collection","settings":{"title":"Colección destacada","featured_collection":"frontpage","num_per_row":4,"num_rows":1,"vendor_enable":false,"show_sale_circle":false,"show_sold_out_circle":false,"center_grid_link":false}},"163658042836c0674d":{"type":"rich-text","settings":{"section_title":"","text":"","text_size":"medium"}},"collection-template":{"type":"collection-template","settings":{"vendor_enable":false,"show_sale_circle":true,"show_sold_out_circle":true,"sort_enable":true,"tags_enable":true,"center_grid_link":true}},"1630723198abe6c70b":{"type":"collection-list","disabled":true,"blocks":{"1630723198abe6c70b-0":{"type":"collection","settings":{"collection":"lenceria"}},"1630723198abe6c70b-1":{"type":"collection","settings":{"collection":"basicos-y-tops"}},"1630723198abe6c70b-2":{"type":"collection","settings":{"collection":"swimwear"}},"1630723198abe6c70b-3":{"type":"collection","settings":{"collection":"vestidos"}}},"block_order":["1630723198abe6c70b-0","1630723198abe6c70b-1","1630723198abe6c70b-2","1630723198abe6c70b-3"],"settings":{"title":"Nuestras colecciones ♥"}},"product-template":{"type":"product-template","settings":{"product_vendor_enable":false,"product_quantity_enable":true,"product_image_zoom_type":"zoom-in","product_thumbnails_position":"below","show_extra_tab":true,"extra_tab_content":"","social_sharing":true,"enable_payment_button":true,"add_to_cart_width":"large"}},"162260818876749029":{"type":"rich-text","settings":{"section_title":"","text":"<p>  <\/p><p><\/p>","text_size":"medium"}},"16363040641f32de22":{"type":"rich-text","settings":{"section_title":"","text":"","text_size":"medium"}},"16226081527b52d0d7":{"type":"instafeed","settings":{"heading_font":"helvetica_n4","heading_size":20,"feed_width":100,"html_area":""}},"blog-template":{"type":"blog-template","settings":{"blog_author_enable":false}},"16363024110e2ff8ef":{"type":"featured-collection","settings":{"title":"","featured_collection":"bralettes","num_per_row":5,"num_rows":1,"vendor_enable":false,"show_sale_circle":true,"show_sold_out_circle":true,"center_grid_link":true}},"header":{"type":"header","settings":{"header_search_enable":true,"logo":"shopify:\/\/shop_images\/logo-imperiosa-nuevo_a004a6de-9de5-47e1-84d7-c0f1357c6c5b.png","logo_max_width":"180","nav_menu":"menu-principal","nav_below_logo":true,"left_aligned_logo":false,"show_header_lines":false,"show_announcement":false,"header_text":"¡VESTIDOS EN OFERTA!","announcement_link":""}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"heading":"También te puede interesar","vendor_enable":false,"show_sale_circle":true,"center_grid_link":true}},"cart-template":{"type":"cart-template","settings":{"cart_notes_enable":false}},"collection-list":{"type":"collection-list","settings":{}},"map":{"type":"map","settings":{"heading":"Nuestra tienda","address":"<p>123 Fake St. <br\/> Toronto, Canadá<\/p><p>Lun - Vie, 10 a.m. - 9 p.m. <br\/> Sábados, de 11 am a 09 pm <br\/> Domingos, de 11 am a 05 pm<\/p>","map_address":"80 Spadina Ave, Toronto","button":"Instrucciones","show_pin":true,"api_key":"","position":"center center"}},"161768197007a28788":{"type":"rich-text","settings":{"section_title":"Síguenos @imperiosa.pe","text":"","text_size":"medium"}},"1646685429ac7e67a7":{"type":"featured-video","settings":{"heading":"","video_url":"https:\/\/youtu.be\/oNQJOCmmBNE"}}},"content_for_index":["1646685429ac7e67a7","slider","163658042836c0674d","1636580413e40e11c6","1630723198abe6c70b","16363036092878ac11","16363024110e2ff8ef","16363040641f32de22","161768197007a28788","16226081527b52d0d7","162260818876749029"],"blocks":{"15323590465973626552":{"type":"shopify:\/\/apps\/translate-currency-langshop\/blocks\/langshop\/84899e01-2b29-42af-99d6-46d16daa2111","disabled":false,"settings":{}}}},"presets":{"Fashion":{"checkout_body_font":"Helvetica Neue","favicon_enable":false,"color_header_text":"#403b37","share_twitter":true,"color_button_primary_text":"#ffffff","color_topbar_text":"#ffffff","enable_wide_layout":true,"color_body_text":"#403b37","color_footer_bg":"#ffffff","checkout_error_color":"#e42c00","type_header_family":"optima_nova_n7","color_footer_text":"#403b37","checkout_heading_font":"Helvetica Neue","share_facebook":true,"type_header_size":"32px","type_accent_transform":true,"checkout_accent_color":"#e42c00","color_primary":"#f25c54","share_pinterest":true,"sections":{"slider":{"settings":{"slider_home_transition":"fade","slider_autorotate_rate":5,"slider_autorotate":false},"blocks":{"slider-1":{"settings":{},"type":"image"},"slider-0":{"settings":{},"type":"image"}},"type":"slider","block_order":["slider-0","slider-1"]},"product-template":{"settings":{"product_thumbnails_position":"below","product_quantity_enable":true,"product_image_zoom_type":"zoom-in","product_vendor_enable":true,"social_sharing":true},"type":"product-template"},"footer":{"settings":{"show_methods_of_payment":true},"blocks":{"footer-3":{"settings":{},"type":"newsletter"},"footer-2":{"settings":{},"type":"social"},"footer-1":{"settings":{"blog":"news"},"type":"blog"},"footer-0":{"settings":{"menu_title":"Links","menu":"footer"},"type":"menu"}},"type":"footer","block_order":["footer-0","footer-1","footer-2","footer-3"]},"feature-row-0":{"settings":{"layout":"right"},"type":"feature-row"},"feature-row-1":{"settings":{"layout":"left"},"type":"feature-row"},"header":{"settings":{"show_header_lines":true,"left_aligned_logo":true,"header_search_enable":true,"nav_below_logo":false,"logo_max_width":"450"},"type":"header"},"featured-collection":{"settings":{"num_per_row":4,"featured_collection":"frontpage","num_rows":1},"type":"featured-collection"},"collection-list":{"settings":{},"type":"collection-list"},"map":{"settings":{},"type":"map"},"collection-template":{"settings":{"tags_enable":true,"show_sold_out_circle":true,"center_grid_link":false,"vendor_enable":true,"show_sale_circle":true,"sort_enable":true},"type":"collection-template"}},"type_accent_size":"16px","social_sharing_style":"normal","color_body_bg":"#ffffff","content_for_index":["slider","featured-collection","feature-row-0","feature-row-1","map"],"type_accent_spacing":true,"type_base_size":"16px","color_topbar_bg":"#403b37","color_borders":"#dddddd","type_accent_family":"optima_nova_n4","type_base_family":"pt_sans_n4","color_footer_social_link":"#403b37","checkout_button_color":"#e42c00"},"Vintage":{"checkout_body_font":"Helvetica Neue","color_header_text":"#1b1e2f","share_twitter":true,"checkout_sidebar_background_color":"#fafafa","checkout_input_background_color_mode":"white","color_button_primary_text":"#ffffff","collections_center_grid_link":false,"color_topbar_text":"#ffffff","color_body_text":"#1b1e2f","checkout_header_image":"","color_footer_bg":"#1b1e2f","checkout_error_color":"#e42c00","checkout_body_background_color":"#fff","type_header_family":"crimson_text_n7","checkout_sidebar_background_image":"","color_footer_text":"#f2f0ee","checkout_heading_font":"Arvo","share_facebook":true,"type_header_size":"30px","type_accent_transform":true,"checkout_accent_color":"#0081a3","color_primary":"#d77e6a","share_pinterest":true,"checkout_body_background_image":"","sections":{"article-template":{"settings":{"article_author_enable":false,"social_sharing":false},"type":"article-template"},"slider":{"settings":{"slider_home_transition":"fade","slider_autorotate_rate":5,"slider_autorotate":false},"blocks":{"slider-1":{"settings":{},"type":"image"},"slider-0":{"settings":{},"type":"image"},"slider-2":{"settings":{},"type":"image"}},"type":"slider","block_order":["slider-0","slider-1","slider-2"]},"product-template":{"settings":{"product_thumbnails_position":"right","product_quantity_enable":false,"extra_tab_content":"","show_extra_tab":false,"product_image_zoom_type":"lightbox","product_vendor_enable":true,"social_sharing":false},"type":"product-template"},"footer":{"settings":{"show_methods_of_payment":true},"blocks":{"footer-3":{"settings":{},"type":"newsletter"},"footer-2":{"settings":{},"type":"social"},"footer-1":{"settings":{"menu":"footer"},"type":"menu"},"footer-0":{"settings":{"blog":"news"},"type":"blog"}},"type":"footer","block_order":["footer-0","footer-1","footer-2","footer-3"]},"featured-product":{"settings":{"product_quantity_enable":false,"product_image_zoom_type":"lightbox","product_vendor_enable":false,"social_sharing":false},"type":"featured-product"},"header":{"settings":{"show_header_lines":true,"left_aligned_logo":true,"header_search_enable":true,"nav_below_logo":false,"logo_max_width":"90"},"type":"header"},"featured-blog":{"settings":{"blog_show_excerpt":true,"blog_show_image":false,"post_limit":2,"title":"News","blog":"news","blog_show_date":true,"show_view_all":false,"blog_show_author":false},"type":"featured-blog"},"featured-collection":{"settings":{"num_per_row":4,"featured_collection":"frontpage","show_sold_out_circle":true,"num_rows":2,"center_grid_link":false,"title":"Popular this week","vendor_enable":false,"show_sale_circle":true},"type":"featured-collection"},"collection-list":{"settings":{},"type":"collection-list"},"collection-template":{"settings":{"tags_enable":true,"show_sold_out_circle":true,"center_grid_link":false,"vendor_enable":true,"show_sale_circle":true,"sort_enable":true},"type":"collection-template"}},"type_accent_size":"14px","social_sharing_style":"normal","color_body_bg":"#faf9f7","content_for_index":["slider","featured-blog","featured-collection","featured-product"],"type_accent_spacing":true,"type_base_size":"16px","color_topbar_bg":"#1b1e2f","checkout_logo_position":"left","checkout_logo_size":"medium","color_borders":"#faf9f7","type_accent_family":"pt_sans_n7","type_base_family":"helvetica_n4","color_footer_social_link":"#f2f0ee","checkout_button_color":"#0081a3","checkout_logo_image":""},"Modern":{"checkout_body_font":"Helvetica Neue","color_header_text":"#000000","share_twitter":true,"checkout_sidebar_background_color":"#fafafa","checkout_input_background_color_mode":"white","color_button_primary_text":"#ffffff","collections_center_grid_link":false,"color_topbar_text":"#000000","enable_wide_layout":false,"color_body_text":"#000000","checkout_header_image":"","color_footer_bg":"rgba(0,0,0,0)","checkout_error_color":"#e42c00","checkout_body_background_color":"#fff","type_header_family":"source_sans_pro_n7","checkout_sidebar_background_image":"","color_footer_text":"#000000","checkout_heading_font":"Helvetica Neue","share_facebook":true,"type_header_size":"32px","type_accent_transform":false,"checkout_accent_color":"#767676","color_primary":"#59756f","share_pinterest":true,"checkout_body_background_image":"","sections":{"article-template":{"settings":{"article_author_enable":false,"social_sharing":false},"type":"article-template"},"slider":{"settings":{"slider_home_transition":"fade","slider_autorotate_rate":5,"slider_autorotate":false},"blocks":{"slider-1":{"settings":{},"type":"image"},"slider-0":{"settings":{},"type":"image"},"slider-3":{"settings":{},"type":"image"},"slider-2":{"settings":{},"type":"image"}},"type":"slider","block_order":["slider-0","slider-1","slider-2","slider-3"]},"newsletter":{"settings":{"color_bg":"#eaebea"},"type":"newsletter"},"product-template":{"settings":{"product_thumbnails_position":"right","product_quantity_enable":false,"extra_tab_content":"","show_extra_tab":false,"product_image_zoom_type":"lightbox","product_vendor_enable":true,"social_sharing":false},"type":"product-template"},"collection-list-1":{"settings":{"title":""},"blocks":{"collection-list-1-3":{"settings":{},"type":"collection"},"collection-list-1-2":{"settings":{},"type":"collection"},"collection-list-1-1":{"settings":{},"type":"collection"},"collection-list-1-0":{"settings":{},"type":"collection"}},"type":"collection-list","block_order":["collection-list-1-0","collection-list-1-1","collection-list-1-2","collection-list-1-3"]},"footer":{"settings":{"show_methods_of_payment":true},"blocks":{"footer-3":{"settings":{},"type":"newsletter"},"footer-2":{"settings":{},"type":"social"},"footer-1":{"settings":{"menu":"footer"},"type":"menu"},"footer-0":{"settings":{"blog":"news"},"type":"blog"}},"type":"footer","block_order":["footer-0","footer-1","footer-2","footer-3"]},"header":{"settings":{"show_header_lines":false,"left_aligned_logo":false,"header_search_enable":true,"nav_below_logo":true,"logo_max_width":"60"},"type":"header"},"collection-list":{"settings":{"title":"Collection list"},"blocks":{"collection-list-1":{"settings":{},"type":"collection"},"collection-list-0":{"settings":{},"type":"collection"},"collection-list-3":{"settings":{},"type":"collection"},"collection-list-2":{"settings":{},"type":"collection"}},"type":"collection-list","block_order":["collection-list-0","collection-list-1","collection-list-2","collection-list-3"]},"collection-template":{"settings":{"tags_enable":true,"show_sold_out_circle":true,"center_grid_link":false,"vendor_enable":false,"show_sale_circle":true,"sort_enable":true},"type":"collection-template"}},"type_accent_size":"16px","social_sharing_style":"normal","color_body_bg":"#ffffff","content_for_index":["slider","collection-list","collection-list-1","newsletter"],"type_accent_spacing":false,"type_base_size":"17px","color_topbar_bg":"#cbd5cc","checkout_logo_position":"left","checkout_logo_size":"medium","color_borders":"#ebebeb","type_accent_family":"source_sans_pro_n7","type_base_family":"pt_serif_n4","color_footer_social_link":"#59756f","checkout_button_color":"#e42c00","checkout_logo_image":""}}}
+{
+  "current": {
+    "enable_wide_layout": true,
+    "color_topbar_bg": "#ffffff",
+    "color_body_bg": "#ffffff",
+    "color_footer_bg": "#eeeeee",
+    "color_borders": "#ffffff",
+    "color_primary": "#f8aeac",
+    "color_button_primary_text": "#ffffff",
+    "color_topbar_text": "#000000",
+    "color_header_text": "#000000",
+    "color_body_text": "#000000",
+    "color_footer_text": "#000000",
+    "color_footer_social_link": "#000000",
+    "type_base_family": "assistant_n4",
+    "type_base_size": "13px",
+    "type_header_family": "assistant_n4",
+    "type_header_size": "26px",
+    "type_accent_family": "antique_olive_n4",
+    "type_accent_size": "12px",
+    "type_accent_transform": true,
+    "type_accent_spacing": true,
+    "favicon": "shopify:\/\/shop_images\/corazon-negro-1.jpg",
+    "social_facebook_link": "https:\/\/www.facebook.com\/imperiosa.pe",
+    "social_pinterest_link": "https:\/\/www.pinterest.com\/imperiosape",
+    "social_instagram_link": "https:\/\/www.instagram.com\/imperiosa.pe",
+    "share_facebook": true,
+    "share_twitter": false,
+    "share_pinterest": true,
+    "social_sharing_style": "normal",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo-imperiosa-nuevo_a004a6de-9de5-47e1-84d7-c0f1357c6c5b.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "small",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#feeeee",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_color": "#ffffff",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#000000",
+    "checkout_button_color": "#f8aeac",
+    "checkout_error_color": "#000000",
+    "favicon_enable": false,
+    "mlvedaACS_roundDecimal": false,
+    "mlvedaACS_autoSwitch": false,
+    "collections_center_grid_link": false,
+    "mlvedaACS_messageContent": "<<shop.name>> process all orders in <<shop.currency>>. While the content of your cart is currently displayed in <<shop.selected_currency>>, you will checkout using <<shop.currency>> at the most current exchange rate.",
+    "mlvedaACS_os2": false,
+    "mlvedaACS_positionTop": "10px",
+    "mlvedaACS_isCustomized": true,
+    "mlvedaACS_positionRight": "10px",
+    "mlvedaACS_borderLook": false,
+    "mlvedaACS_positionLeft": "10px",
+    "mlvedaACS_defaultCurrency": "PEN",
+    "mlvedaACS_textColor": "inherit",
+    "mlvedaACS_flagStyle": "circle",
+    "mlvedaACS_isMessageDisplay": true,
+    "mlvedaACS_positionBottom": "10px",
+    "mlvedaACS_messageBackgroundColor": "inherit",
+    "mlvedaACS_roundDecimalValue": 1,
+    "mlvedaACS_backgroundColor": "inherit",
+    "mlvedaACS_position": "inline",
+    "mlvedaACS_messageColor": "inherit",
+    "mlvedaACS_textHoverColor": "inherit",
+    "mlvedaACS_enable": false,
+    "mlvedaACS_supportedCurrencies": "PEN USD CLP COP PAB ARS BOB MXN VEF PYG UYU CRC CAD",
+    "mlvedaACS_hideDecimal": false,
+    "mlvedaACS_hoverBackgroundColor": "inherit",
+    "mlvedaACS_currencyFormat": "money_with_currency_format",
+    "mlvedaACS_borderLineColor": "inherit",
+    "mlvedaACS_displayFlag": false,
+    "sections": {
+      "slider": {
+        "type": "slider",
+        "blocks": {
+          "c6687566-a6c0-476e-90ba-e55ec23c6ad1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "left",
+              "slide_heading": "*",
+              "button_label": "VESTIDOS AQUÍ",
+              "button_link": "shopify:\/\/collections\/vestidos"
+            }
+          },
+          "slider-1": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/2x1-polos.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "left",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "ea20891c-a10a-41f7-a739-848116cd5434": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/portada_03_0b84af56-789f-40b0-8c0f-1050191b272b.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "SHOP NOW",
+              "button_link": "shopify:\/\/collections\/lenceria"
+            }
+          },
+          "slider-0": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/portada_01.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "SHOP NOW",
+              "button_link": "shopify:\/\/collections\/ropa-moda"
+            }
+          },
+          "9a04dd34-efd8-4e61-9b56-6b1a74e059e3": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify:\/\/shop_images\/vestidos-vrios-1.jpg",
+              "alignment": "left center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "c6687566-a6c0-476e-90ba-e55ec23c6ad1",
+          "slider-1",
+          "ea20891c-a10a-41f7-a739-848116cd5434",
+          "slider-0",
+          "9a04dd34-efd8-4e61-9b56-6b1a74e059e3"
+        ],
+        "settings": {
+          "slider_height": "adapt",
+          "slider_autorotate": false,
+          "slider_autorotate_rate": 5,
+          "slider_home_transition": "fade",
+          "text_size": "large"
+        }
+      },
+      "1636580413e40e11c6": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "Nuestros favoritos ♥",
+          "text": "",
+          "text_size": "medium"
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "display_type": "all",
+          "sort": "alphabetical",
+          "grid": "3"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "0a74bf42-1630-4591-a280-2acb1763fef1": {
+            "type": "text",
+            "settings": {
+              "title": "Contáctanos",
+              "richtext": "<p><strong>📱 <\/strong><a href=\"https:\/\/wa.me\/51988960376\" target=\"_blank\" title=\"https:\/\/wa.me\/51988960376\">972 185 669<\/a><\/p><p>✉ info@imperiosa.pe<\/p>"
+            }
+          },
+          "footer-0": {
+            "type": "menu",
+            "settings": {
+              "menu_title": "Información",
+              "menu": "informacion"
+            }
+          },
+          "footer-2": {
+            "type": "social",
+            "settings": {
+            }
+          },
+          "footer-3": {
+            "type": "newsletter",
+            "settings": {
+              "subtext": ""
+            }
+          }
+        },
+        "block_order": [
+          "0a74bf42-1630-4591-a280-2acb1763fef1",
+          "footer-0",
+          "footer-2",
+          "footer-3"
+        ],
+        "settings": {
+          "show_methods_of_payment": true
+        }
+      },
+      "16363036092878ac11": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "",
+          "featured_collection": "vestidos",
+          "num_per_row": 5,
+          "num_rows": 1,
+          "vendor_enable": false,
+          "show_sale_circle": true,
+          "show_sold_out_circle": true,
+          "center_grid_link": true
+        }
+      },
+      "featured-collection": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Colección destacada",
+          "featured_collection": "frontpage",
+          "num_per_row": 4,
+          "num_rows": 1,
+          "vendor_enable": false,
+          "show_sale_circle": false,
+          "show_sold_out_circle": false,
+          "center_grid_link": false
+        }
+      },
+      "163658042836c0674d": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "",
+          "text": "",
+          "text_size": "medium"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "vendor_enable": false,
+          "show_sale_circle": true,
+          "show_sold_out_circle": true,
+          "sort_enable": true,
+          "tags_enable": true,
+          "center_grid_link": true
+        }
+      },
+      "1630723198abe6c70b": {
+        "type": "collection-list",
+        "disabled": true,
+        "blocks": {
+          "1630723198abe6c70b-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "lenceria"
+            }
+          },
+          "1630723198abe6c70b-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "polos-y-tops"
+            }
+          },
+          "1630723198abe6c70b-2": {
+            "type": "collection",
+            "settings": {
+              "collection": "swimwear"
+            }
+          },
+          "1630723198abe6c70b-3": {
+            "type": "collection",
+            "settings": {
+              "collection": "vestidos"
+            }
+          }
+        },
+        "block_order": [
+          "1630723198abe6c70b-0",
+          "1630723198abe6c70b-1",
+          "1630723198abe6c70b-2",
+          "1630723198abe6c70b-3"
+        ],
+        "settings": {
+          "title": "Nuestras colecciones ♥"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_vendor_enable": false,
+          "product_quantity_enable": true,
+          "product_image_zoom_type": "zoom-in",
+          "product_thumbnails_position": "below",
+          "show_extra_tab": true,
+          "extra_tab_content": "",
+          "social_sharing": true,
+          "enable_payment_button": true,
+          "add_to_cart_width": "large"
+        }
+      },
+      "162260818876749029": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "",
+          "text": "<p>  <\/p><p><\/p>",
+          "text_size": "medium"
+        }
+      },
+      "16363040641f32de22": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "",
+          "text": "",
+          "text_size": "medium"
+        }
+      },
+      "16226081527b52d0d7": {
+        "type": "instafeed",
+        "settings": {
+          "heading_font": "helvetica_n4",
+          "heading_size": 20,
+          "feed_width": 100,
+          "html_area": ""
+        }
+      },
+      "blog-template": {
+        "type": "blog-template",
+        "settings": {
+          "blog_author_enable": false
+        }
+      },
+      "16363024110e2ff8ef": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "",
+          "featured_collection": "bralettes",
+          "num_per_row": 5,
+          "num_rows": 1,
+          "vendor_enable": false,
+          "show_sale_circle": true,
+          "show_sold_out_circle": true,
+          "center_grid_link": true
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "header_search_enable": true,
+          "logo": "shopify:\/\/shop_images\/logo-imperiosa-nuevo_a004a6de-9de5-47e1-84d7-c0f1357c6c5b.png",
+          "logo_max_width": "180",
+          "nav_menu": "menu-principal",
+          "nav_below_logo": true,
+          "left_aligned_logo": false,
+          "show_header_lines": false,
+          "show_announcement": false,
+          "header_text": "¡VESTIDOS EN OFERTA!",
+          "announcement_link": ""
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "También te puede interesar",
+          "vendor_enable": false,
+          "show_sale_circle": true,
+          "center_grid_link": true
+        }
+      },
+      "cart-template": {
+        "type": "cart-template",
+        "settings": {
+          "cart_notes_enable": false
+        }
+      },
+      "collection-list": {
+        "type": "collection-list",
+        "settings": {
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "heading": "Nuestra tienda",
+          "address": "<p>123 Fake St. <br\/> Toronto, Canadá<\/p><p>Lun - Vie, 10 a.m. - 9 p.m. <br\/> Sábados, de 11 am a 09 pm <br\/> Domingos, de 11 am a 05 pm<\/p>",
+          "map_address": "80 Spadina Ave, Toronto",
+          "button": "Instrucciones",
+          "show_pin": true,
+          "api_key": "",
+          "position": "center center"
+        }
+      },
+      "161768197007a28788": {
+        "type": "rich-text",
+        "settings": {
+          "section_title": "Síguenos @imperiosa.pe",
+          "text": "",
+          "text_size": "medium"
+        }
+      },
+      "1646685429ac7e67a7": {
+        "type": "featured-video",
+        "settings": {
+          "heading": "",
+          "video_url": "https:\/\/youtu.be\/oNQJOCmmBNE"
+        }
+      }
+    },
+    "content_for_index": [
+      "1646685429ac7e67a7",
+      "slider",
+      "163658042836c0674d",
+      "1636580413e40e11c6",
+      "1630723198abe6c70b",
+      "16363036092878ac11",
+      "16363024110e2ff8ef",
+      "16363040641f32de22",
+      "161768197007a28788",
+      "16226081527b52d0d7",
+      "162260818876749029"
+    ],
+    "blocks": {
+      "15323590465973626552": {
+        "type": "shopify:\/\/apps\/translate-currency-langshop\/blocks\/langshop\/84899e01-2b29-42af-99d6-46d16daa2111",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    }
+  },
+  "presets": {
+    "Fashion": {
+      "checkout_body_font": "Helvetica Neue",
+      "favicon_enable": false,
+      "color_header_text": "#403b37",
+      "share_twitter": true,
+      "color_button_primary_text": "#ffffff",
+      "color_topbar_text": "#ffffff",
+      "enable_wide_layout": true,
+      "color_body_text": "#403b37",
+      "color_footer_bg": "#ffffff",
+      "checkout_error_color": "#e42c00",
+      "type_header_family": "optima_nova_n7",
+      "color_footer_text": "#403b37",
+      "checkout_heading_font": "Helvetica Neue",
+      "share_facebook": true,
+      "type_header_size": "32px",
+      "type_accent_transform": true,
+      "checkout_accent_color": "#e42c00",
+      "color_primary": "#f25c54",
+      "share_pinterest": true,
+      "sections": {
+        "slider": {
+          "settings": {
+            "slider_home_transition": "fade",
+            "slider_autorotate_rate": 5,
+            "slider_autorotate": false
+          },
+          "blocks": {
+            "slider-1": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-0": {
+              "settings": {
+              },
+              "type": "image"
+            }
+          },
+          "type": "slider",
+          "block_order": [
+            "slider-0",
+            "slider-1"
+          ]
+        },
+        "product-template": {
+          "settings": {
+            "product_thumbnails_position": "below",
+            "product_quantity_enable": true,
+            "product_image_zoom_type": "zoom-in",
+            "product_vendor_enable": true,
+            "social_sharing": true
+          },
+          "type": "product-template"
+        },
+        "footer": {
+          "settings": {
+            "show_methods_of_payment": true
+          },
+          "blocks": {
+            "footer-3": {
+              "settings": {
+              },
+              "type": "newsletter"
+            },
+            "footer-2": {
+              "settings": {
+              },
+              "type": "social"
+            },
+            "footer-1": {
+              "settings": {
+                "blog": "news"
+              },
+              "type": "blog"
+            },
+            "footer-0": {
+              "settings": {
+                "menu_title": "Links",
+                "menu": "footer"
+              },
+              "type": "menu"
+            }
+          },
+          "type": "footer",
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2",
+            "footer-3"
+          ]
+        },
+        "feature-row-0": {
+          "settings": {
+            "layout": "right"
+          },
+          "type": "feature-row"
+        },
+        "feature-row-1": {
+          "settings": {
+            "layout": "left"
+          },
+          "type": "feature-row"
+        },
+        "header": {
+          "settings": {
+            "show_header_lines": true,
+            "left_aligned_logo": true,
+            "header_search_enable": true,
+            "nav_below_logo": false,
+            "logo_max_width": "450"
+          },
+          "type": "header"
+        },
+        "featured-collection": {
+          "settings": {
+            "num_per_row": 4,
+            "featured_collection": "frontpage",
+            "num_rows": 1
+          },
+          "type": "featured-collection"
+        },
+        "collection-list": {
+          "settings": {
+          },
+          "type": "collection-list"
+        },
+        "map": {
+          "settings": {
+          },
+          "type": "map"
+        },
+        "collection-template": {
+          "settings": {
+            "tags_enable": true,
+            "show_sold_out_circle": true,
+            "center_grid_link": false,
+            "vendor_enable": true,
+            "show_sale_circle": true,
+            "sort_enable": true
+          },
+          "type": "collection-template"
+        }
+      },
+      "type_accent_size": "16px",
+      "social_sharing_style": "normal",
+      "color_body_bg": "#ffffff",
+      "content_for_index": [
+        "slider",
+        "featured-collection",
+        "feature-row-0",
+        "feature-row-1",
+        "map"
+      ],
+      "type_accent_spacing": true,
+      "type_base_size": "16px",
+      "color_topbar_bg": "#403b37",
+      "color_borders": "#dddddd",
+      "type_accent_family": "optima_nova_n4",
+      "type_base_family": "pt_sans_n4",
+      "color_footer_social_link": "#403b37",
+      "checkout_button_color": "#e42c00"
+    },
+    "Vintage": {
+      "checkout_body_font": "Helvetica Neue",
+      "color_header_text": "#1b1e2f",
+      "share_twitter": true,
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_input_background_color_mode": "white",
+      "color_button_primary_text": "#ffffff",
+      "collections_center_grid_link": false,
+      "color_topbar_text": "#ffffff",
+      "color_body_text": "#1b1e2f",
+      "checkout_header_image": "",
+      "color_footer_bg": "#1b1e2f",
+      "checkout_error_color": "#e42c00",
+      "checkout_body_background_color": "#fff",
+      "type_header_family": "crimson_text_n7",
+      "checkout_sidebar_background_image": "",
+      "color_footer_text": "#f2f0ee",
+      "checkout_heading_font": "Arvo",
+      "share_facebook": true,
+      "type_header_size": "30px",
+      "type_accent_transform": true,
+      "checkout_accent_color": "#0081a3",
+      "color_primary": "#d77e6a",
+      "share_pinterest": true,
+      "checkout_body_background_image": "",
+      "sections": {
+        "article-template": {
+          "settings": {
+            "article_author_enable": false,
+            "social_sharing": false
+          },
+          "type": "article-template"
+        },
+        "slider": {
+          "settings": {
+            "slider_home_transition": "fade",
+            "slider_autorotate_rate": 5,
+            "slider_autorotate": false
+          },
+          "blocks": {
+            "slider-1": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-0": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-2": {
+              "settings": {
+              },
+              "type": "image"
+            }
+          },
+          "type": "slider",
+          "block_order": [
+            "slider-0",
+            "slider-1",
+            "slider-2"
+          ]
+        },
+        "product-template": {
+          "settings": {
+            "product_thumbnails_position": "right",
+            "product_quantity_enable": false,
+            "extra_tab_content": "",
+            "show_extra_tab": false,
+            "product_image_zoom_type": "lightbox",
+            "product_vendor_enable": true,
+            "social_sharing": false
+          },
+          "type": "product-template"
+        },
+        "footer": {
+          "settings": {
+            "show_methods_of_payment": true
+          },
+          "blocks": {
+            "footer-3": {
+              "settings": {
+              },
+              "type": "newsletter"
+            },
+            "footer-2": {
+              "settings": {
+              },
+              "type": "social"
+            },
+            "footer-1": {
+              "settings": {
+                "menu": "footer"
+              },
+              "type": "menu"
+            },
+            "footer-0": {
+              "settings": {
+                "blog": "news"
+              },
+              "type": "blog"
+            }
+          },
+          "type": "footer",
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2",
+            "footer-3"
+          ]
+        },
+        "featured-product": {
+          "settings": {
+            "product_quantity_enable": false,
+            "product_image_zoom_type": "lightbox",
+            "product_vendor_enable": false,
+            "social_sharing": false
+          },
+          "type": "featured-product"
+        },
+        "header": {
+          "settings": {
+            "show_header_lines": true,
+            "left_aligned_logo": true,
+            "header_search_enable": true,
+            "nav_below_logo": false,
+            "logo_max_width": "90"
+          },
+          "type": "header"
+        },
+        "featured-blog": {
+          "settings": {
+            "blog_show_excerpt": true,
+            "blog_show_image": false,
+            "post_limit": 2,
+            "title": "News",
+            "blog": "news",
+            "blog_show_date": true,
+            "show_view_all": false,
+            "blog_show_author": false
+          },
+          "type": "featured-blog"
+        },
+        "featured-collection": {
+          "settings": {
+            "num_per_row": 4,
+            "featured_collection": "frontpage",
+            "show_sold_out_circle": true,
+            "num_rows": 2,
+            "center_grid_link": false,
+            "title": "Popular this week",
+            "vendor_enable": false,
+            "show_sale_circle": true
+          },
+          "type": "featured-collection"
+        },
+        "collection-list": {
+          "settings": {
+          },
+          "type": "collection-list"
+        },
+        "collection-template": {
+          "settings": {
+            "tags_enable": true,
+            "show_sold_out_circle": true,
+            "center_grid_link": false,
+            "vendor_enable": true,
+            "show_sale_circle": true,
+            "sort_enable": true
+          },
+          "type": "collection-template"
+        }
+      },
+      "type_accent_size": "14px",
+      "social_sharing_style": "normal",
+      "color_body_bg": "#faf9f7",
+      "content_for_index": [
+        "slider",
+        "featured-blog",
+        "featured-collection",
+        "featured-product"
+      ],
+      "type_accent_spacing": true,
+      "type_base_size": "16px",
+      "color_topbar_bg": "#1b1e2f",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "color_borders": "#faf9f7",
+      "type_accent_family": "pt_sans_n7",
+      "type_base_family": "helvetica_n4",
+      "color_footer_social_link": "#f2f0ee",
+      "checkout_button_color": "#0081a3",
+      "checkout_logo_image": ""
+    },
+    "Modern": {
+      "checkout_body_font": "Helvetica Neue",
+      "color_header_text": "#000000",
+      "share_twitter": true,
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_input_background_color_mode": "white",
+      "color_button_primary_text": "#ffffff",
+      "collections_center_grid_link": false,
+      "color_topbar_text": "#000000",
+      "enable_wide_layout": false,
+      "color_body_text": "#000000",
+      "checkout_header_image": "",
+      "color_footer_bg": "rgba(0,0,0,0)",
+      "checkout_error_color": "#e42c00",
+      "checkout_body_background_color": "#fff",
+      "type_header_family": "source_sans_pro_n7",
+      "checkout_sidebar_background_image": "",
+      "color_footer_text": "#000000",
+      "checkout_heading_font": "Helvetica Neue",
+      "share_facebook": true,
+      "type_header_size": "32px",
+      "type_accent_transform": false,
+      "checkout_accent_color": "#767676",
+      "color_primary": "#59756f",
+      "share_pinterest": true,
+      "checkout_body_background_image": "",
+      "sections": {
+        "article-template": {
+          "settings": {
+            "article_author_enable": false,
+            "social_sharing": false
+          },
+          "type": "article-template"
+        },
+        "slider": {
+          "settings": {
+            "slider_home_transition": "fade",
+            "slider_autorotate_rate": 5,
+            "slider_autorotate": false
+          },
+          "blocks": {
+            "slider-1": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-0": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-3": {
+              "settings": {
+              },
+              "type": "image"
+            },
+            "slider-2": {
+              "settings": {
+              },
+              "type": "image"
+            }
+          },
+          "type": "slider",
+          "block_order": [
+            "slider-0",
+            "slider-1",
+            "slider-2",
+            "slider-3"
+          ]
+        },
+        "newsletter": {
+          "settings": {
+            "color_bg": "#eaebea"
+          },
+          "type": "newsletter"
+        },
+        "product-template": {
+          "settings": {
+            "product_thumbnails_position": "right",
+            "product_quantity_enable": false,
+            "extra_tab_content": "",
+            "show_extra_tab": false,
+            "product_image_zoom_type": "lightbox",
+            "product_vendor_enable": true,
+            "social_sharing": false
+          },
+          "type": "product-template"
+        },
+        "collection-list-1": {
+          "settings": {
+            "title": ""
+          },
+          "blocks": {
+            "collection-list-1-3": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-1-2": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-1-1": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-1-0": {
+              "settings": {
+              },
+              "type": "collection"
+            }
+          },
+          "type": "collection-list",
+          "block_order": [
+            "collection-list-1-0",
+            "collection-list-1-1",
+            "collection-list-1-2",
+            "collection-list-1-3"
+          ]
+        },
+        "footer": {
+          "settings": {
+            "show_methods_of_payment": true
+          },
+          "blocks": {
+            "footer-3": {
+              "settings": {
+              },
+              "type": "newsletter"
+            },
+            "footer-2": {
+              "settings": {
+              },
+              "type": "social"
+            },
+            "footer-1": {
+              "settings": {
+                "menu": "footer"
+              },
+              "type": "menu"
+            },
+            "footer-0": {
+              "settings": {
+                "blog": "news"
+              },
+              "type": "blog"
+            }
+          },
+          "type": "footer",
+          "block_order": [
+            "footer-0",
+            "footer-1",
+            "footer-2",
+            "footer-3"
+          ]
+        },
+        "header": {
+          "settings": {
+            "show_header_lines": false,
+            "left_aligned_logo": false,
+            "header_search_enable": true,
+            "nav_below_logo": true,
+            "logo_max_width": "60"
+          },
+          "type": "header"
+        },
+        "collection-list": {
+          "settings": {
+            "title": "Collection list"
+          },
+          "blocks": {
+            "collection-list-1": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-0": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-3": {
+              "settings": {
+              },
+              "type": "collection"
+            },
+            "collection-list-2": {
+              "settings": {
+              },
+              "type": "collection"
+            }
+          },
+          "type": "collection-list",
+          "block_order": [
+            "collection-list-0",
+            "collection-list-1",
+            "collection-list-2",
+            "collection-list-3"
+          ]
+        },
+        "collection-template": {
+          "settings": {
+            "tags_enable": true,
+            "show_sold_out_circle": true,
+            "center_grid_link": false,
+            "vendor_enable": false,
+            "show_sale_circle": true,
+            "sort_enable": true
+          },
+          "type": "collection-template"
+        }
+      },
+      "type_accent_size": "16px",
+      "social_sharing_style": "normal",
+      "color_body_bg": "#ffffff",
+      "content_for_index": [
+        "slider",
+        "collection-list",
+        "collection-list-1",
+        "newsletter"
+      ],
+      "type_accent_spacing": false,
+      "type_base_size": "17px",
+      "color_topbar_bg": "#cbd5cc",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "color_borders": "#ebebeb",
+      "type_accent_family": "source_sans_pro_n7",
+      "type_base_family": "pt_serif_n4",
+      "color_footer_social_link": "#59756f",
+      "checkout_button_color": "#e42c00",
+      "checkout_logo_image": ""
+    }
+  }
+}
